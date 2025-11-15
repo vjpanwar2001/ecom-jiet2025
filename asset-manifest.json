@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecom-jiet2025/static/css/main.144c52a1.css",
-    "main.js": "/ecom-jiet2025/static/js/main.fd18da22.js",
+    "main.js": "/ecom-jiet2025/static/js/main.4b9fecaf.js",
     "static/js/453.af178710.chunk.js": "/ecom-jiet2025/static/js/453.af178710.chunk.js",
     "static/media/scandinavian-interior-mockup-wall-decal-background 1.jpg": "/ecom-jiet2025/static/media/scandinavian-interior-mockup-wall-decal-background 1.f1a6d6f6ad4c60f72dcc.jpg",
     "static/media/Rectangle 1.png": "/ecom-jiet2025/static/media/Rectangle 1.2a4bf84e7f2471a004c7.png",
@@ -23,11 +23,11 @@
     "static/media/xcross.svg": "/ecom-jiet2025/static/media/xcross.257e6b09ad0b8e3569311ff282221e1b.svg",
     "index.html": "/ecom-jiet2025/index.html",
     "main.144c52a1.css.map": "/ecom-jiet2025/static/css/main.144c52a1.css.map",
-    "main.fd18da22.js.map": "/ecom-jiet2025/static/js/main.fd18da22.js.map",
+    "main.4b9fecaf.js.map": "/ecom-jiet2025/static/js/main.4b9fecaf.js.map",
     "453.af178710.chunk.js.map": "/ecom-jiet2025/static/js/453.af178710.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.144c52a1.css",
-    "static/js/main.fd18da22.js"
+    "static/js/main.4b9fecaf.js"
   ]
 }
